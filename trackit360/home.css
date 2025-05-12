@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+nav{
+    background-color: #1f1f95;
+}
+
+a.navbar-brand{
+    color: white;
+}
+
+li a.nav-link{
+    color: white;
+}
